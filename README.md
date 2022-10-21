@@ -4,6 +4,6 @@
 Atividade da diciplina Métodos númericos computacionais
 
 
-[ver Notebook](./notebook/Method_of_least_square.ipynb)
+[ver Notebook](./Notebook/Method_of_least_square.ipynb)
 
 ![demostration](./ReadmeAssets/Ilustration.png)
